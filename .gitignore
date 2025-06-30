@@ -1,0 +1,7 @@
+Agent_Orchestration/llm/__pycache__
+Agent_Orchestration/tools/__pycache__
+Agent_Orchestration/multi_agents/__pycache__
+.venv
+
+Agent_Orchestration/tools/.env
+Agent_Orchestration/llm/.env
